@@ -1,0 +1,7 @@
+C:\Users\guife\Downloads\csharpexceptions-aula4\csharpexceptions-aula4\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\guife\Downloads\csharpexceptions-aula4\csharpexceptions-aula4\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\guife\Downloads\csharpexceptions-aula4\csharpexceptions-aula4\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\guife\Downloads\csharpexceptions-aula4\csharpexceptions-aula4\ByteBank\obj\Debug\ByteBank.csproj.AssemblyReference.cache
+C:\Users\guife\Downloads\csharpexceptions-aula4\csharpexceptions-aula4\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\guife\Downloads\csharpexceptions-aula4\csharpexceptions-aula4\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\guife\Downloads\csharpexceptions-aula4\csharpexceptions-aula4\ByteBank\obj\Debug\ByteBank.pdb
